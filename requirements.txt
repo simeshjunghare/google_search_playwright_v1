@@ -2,7 +2,5 @@ streamlit==1.38.0
 playwright==1.47.0
 pandas==2.2.3
 numpy==1.26.4
-beautifulsoup4==4.12.3
-googletrans==4.0.0rc1
-langchain==0.2.11
+googletrans==4.0.2   
 openai==1.47.1
